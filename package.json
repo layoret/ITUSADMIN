@@ -1,6 +1,6 @@
 {
-  "name": "able-pro-v6",
-  "version": "v7.2.0",
+  "name": "ITUS-ADMIN-UI",
+  "version": "v1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
